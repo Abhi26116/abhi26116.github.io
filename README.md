@@ -5,7 +5,7 @@ https://abhi26116.github.io/.
 
 | App | Support | Privacy policy |
 | --- | --- | --- |
-| Startup Merge | [/startup-merge/support.html](https://abhi26116.github.io/startup-merge/support.html) | [/startup-merge/privacy.html](https://abhi26116.github.io/startup-merge/privacy.html) |
+| Coffee to IPO (was Startup Merge) | [/startup-merge/support.html](https://abhi26116.github.io/startup-merge/support.html) | [/startup-merge/privacy.html](https://abhi26116.github.io/startup-merge/privacy.html) |
 
 ## Adding an app
 
@@ -13,6 +13,9 @@ https://abhi26116.github.io/.
    (lowercase, words joined by `-`).
 2. Replace the icon and edit the three pages for the new app.
 3. Add a card for it in `index.html` and a row in the table above.
+
+Coffee to IPO keeps the `startup-merge/` folder from its first name, because
+App Store Connect and the app link to those URLs.
 
 All pages share `style.css` at the root. `.nojekyll` tells GitHub to serve the
 files as they are.
