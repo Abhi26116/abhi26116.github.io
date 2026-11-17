@@ -1,0 +1,16 @@
+{
+  "liveops": {
+    "featuredAlbums": [
+      "autumn_harvest"
+    ],
+    "events": [
+      {
+        "id": "diwali_2026",
+        "name": "Festival of Lights",
+        "albumId": "diwali_lights",
+        "start": "2026-10-25T00:00:00Z",
+        "end": "2026-11-30T00:00:00Z"
+      }
+    ]
+  }
+}

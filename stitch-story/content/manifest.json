@@ -1,0 +1,21 @@
+{
+  "format": 1,
+  "packs": [
+    {
+      "id": "autumn_harvest",
+      "version": 2,
+      "file": "packs/autumn_harvest_v2.json",
+      "size": 4217,
+      "sha256": "688fde93aae01c297f495f6e74cdd7f591727f7e40e4821db5fc1a6a68ad20d9",
+      "minFormat": 1
+    },
+    {
+      "id": "diwali_lights",
+      "version": 2,
+      "file": "packs/diwali_lights_v2.json",
+      "size": 4218,
+      "sha256": "8a4150c1dcfbcc06a8c67cb4d00966bbe030955849a4e238f2d759a661a566b7",
+      "minFormat": 1
+    }
+  ]
+}

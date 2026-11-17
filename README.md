@@ -6,6 +6,7 @@ https://abhi26116.github.io/.
 | App | Support | Privacy policy |
 | --- | --- | --- |
 | Coffee to IPO (was Startup Merge) | [/startup-merge/support.html](https://abhi26116.github.io/startup-merge/support.html) | [/startup-merge/privacy.html](https://abhi26116.github.io/startup-merge/privacy.html) |
+| Stitch Story | [/stitch-story/support.html](https://abhi26116.github.io/stitch-story/support.html) | [/stitch-story/privacy.html](https://abhi26116.github.io/stitch-story/privacy.html) |
 
 ## Adding an app
 
@@ -19,3 +20,7 @@ App Store Connect and the app link to those URLs.
 
 All pages share `style.css` at the root. `.nojekyll` tells GitHub to serve the
 files as they are.
+
+Stitch Story also has `stitch-story/terms.html` and serves its downloadable picture albums from
+`stitch-story/content/` (`manifest.json`, `remote_config.json`, `packs/`), copied from the game's
+`RemoteContent/` folder; the game reads them from `https://abhi26116.github.io/stitch-story/content/`.
